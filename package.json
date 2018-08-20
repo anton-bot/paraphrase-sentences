@@ -1,0 +1,33 @@
+{
+  "name": "paraphrase-sentences",
+  "version": "1.0.1",
+  "description": "Generate multiple variations of a sentence.",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catcher-in-the-try/paraphrase-sentences.git"
+  },
+  "keywords": [
+    "paraphrase",
+    "nlp",
+    "natural",
+    "natural-language",
+    "google-translate",
+    "translate",
+    "generate-sentences",
+    "paraphrase-sentences",
+    "sentence-variations"
+  ],
+  "author": "Anton Ivanov <anton@ivanov.hk>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/catcher-in-the-try/paraphrase-sentences/issues"
+  },
+  "homepage": "https://github.com/catcher-in-the-try/paraphrase-sentences#readme",
+  "dependencies": {
+    "google-translate": "^2.2.0"
+  }
+}
